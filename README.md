@@ -8,7 +8,7 @@
 
 ![Extension](images/extension.png)
 
-* Toggle Developer mode to On and select **Load Unpacked** and select the KnowMore-Client and click on Open.
+* Toggle Developer mode to On and select **Load Unpacked** and select Knowledge-Value and click on Open.
 
 ![Developer Mode](images/devMode.png)
 
