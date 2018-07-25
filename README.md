@@ -12,11 +12,11 @@
 
 ![Developer Mode](images/devMode.png)
 
-## Screenshots
-
-* Flow diagram
+## Flow diagram
 
 ![Flow diagram](images/flow.jpg)
+
+## Screenshots
 
 * Working
 
